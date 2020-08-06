@@ -1,10 +1,7 @@
-### Hi there 👋
 
-<!--
-**Tiththa/tiththa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2> I'm Saravanan Selvamohan <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Research & Development Engineer at <a href="https://tekclansolutions.com/">Tekclan</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> I'm Tithira Jayasekera <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p><em>Powertrain Software Engineer at <a href="https://tekclansolutions.com/">Mercedes-AMG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
 
