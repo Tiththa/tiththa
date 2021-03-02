@@ -1,9 +1,8 @@
 
 
 <h2> I'm Tithira Jayasekera <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Powertrain Software Engineer at <a href="https://www.mercedes-amg.com/en.html">Mercedes-AMG</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Trainee Software Engineer at <a href="https://www.eurofighter.com">Eurofighter GmbH</a>
 </em></p>
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/l2R06kO1jE5hNHub6/giphy.gif" />
 
 
 <div align="left">
