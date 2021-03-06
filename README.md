@@ -23,8 +23,8 @@
 </p>
 
 <!--START_SECTION:waka-->
-[![Tiththa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiththa)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
+[![Tiththa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiththa)](https://github.com/anuraghazra/github-readme-stats)
 
 <figure><embed src="https://wakatime.com/share/@9fb5687f-e168-434f-b3e8-b78f6110a41b/c3f0327e-1a8d-4e12-8561-17bab5395db2.svg"></embed></figure>
 
