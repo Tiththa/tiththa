@@ -23,6 +23,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Blade Template   7 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.83 % 
+PHP              6 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.31 % 
+Other            1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+JavaScript       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Markdown         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+```
 <!--END_SECTION:waka-->
 [![Tiththa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiththa)](https://github.com/anuraghazra/github-readme-stats)
 
