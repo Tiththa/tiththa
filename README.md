@@ -23,6 +23,7 @@
 </p>
 
 <!--START_SECTION:waka-->
+[![Tiththa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiththa)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 
