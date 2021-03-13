@@ -24,10 +24,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP              5 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.90 % 
-Blade Template   5 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   46.72 % 
-Other            28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Markdown         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Blade Template   5 hrs 55 mins   ██████████████▓░░░░░░░░░░   59.19 % 
+PHP              4 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   40.78 % 
 ```
 <!--END_SECTION:waka-->
 
