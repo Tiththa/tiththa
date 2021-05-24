@@ -1,6 +1,6 @@
 
 
-<h2> I'm Tithira Jayasekera <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> I'm Tithira Jayasekera</h2>
 <p><em>Trainee Software Engineer at <a href="https://www.eurofighter.com">Eurofighter GmbH</a>
 </em></p>
 
@@ -15,6 +15,7 @@
 </div>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tiththa&show_icons=true)
+![Metrics](https://github.com/tiththa/tiththa/blob/master/github-metrics.svg)
 
 **Languages and Tools:** 
 <p align="left">
@@ -22,11 +23,5 @@
   
 </p>
 
-<!--START_SECTION:waka-->
-```text
-Blade Template   5 hrs 55 mins   ██████████████▓░░░░░░░░░░   59.19 % 
-PHP              4 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   40.78 % 
-```
-<!--END_SECTION:waka-->
 
 
