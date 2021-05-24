@@ -14,8 +14,9 @@
 
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=tiththa&show_icons=true)
+
 ![Metrics](https://github.com/tiththa/tiththa/blob/master/github-metrics.svg)
+
 
 **Languages and Tools:** 
 <p align="left">
