@@ -3,7 +3,10 @@
 # Hello, folks! 
 
 My name is Tithira Jayasekera and I'm a Software Developer. I'm from Colombo, Sri Lanka, currently working as a FIFO Developer. 
+
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=tiththas&color=55acb7&style=for-the-badge&logo=Github)
 <div align="left">
+  
 
 ### Social Links
   
