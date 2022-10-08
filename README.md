@@ -13,7 +13,6 @@ My name is Tithira Jayasekera and I'm a Software Developer. I'm from Colombo, Sr
 - Email    : <a href="mailto:tithira.info@gmail.com">tithira.info@gmail.com</a>
 
   <a href="https://www.linkedin.com/in/tithira97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-515bd4?style=flat-square&logo=instagram&logoColor=white&labelColor=dd2a7b&link=https://instagram.com/tithster/)](https://instagram.com/tithster)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-ef8236?style=flat-square&logo=stack-overflow&logoColor=white&labelColor=222426&link=https://stackoverflow.com/users/7964905/tithira)](https://stackoverflow.com/users/7964905/tithira)
   [![Dev to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev-dot-to&logoColor=white&link=https://dev.to/tiththa/)](https://dev.to/tiththa)
 
